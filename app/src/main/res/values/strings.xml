@@ -1,4 +1,23 @@
 <resources>
-    <string name="app_name">Weather</string>
-    <string name="weather">Weather</string>
+    <string name="app_name">Weather Application</string>
+    <string name="weather">Weather in your city</string>
+    <string name="on_create">onCreate</string>
+    <string name="on_start">onStart</string>
+    <string name="on_restore_instance_state">onRestoreInstanceState</string>
+    <string name="on_resume">onResume</string>
+    <string name="on_pause">onPause</string>
+    <string name="on_save_instance_state">onSaveInstanceState</string>
+    <string name="on_stop">onStop</string>
+    <string name="on_restart">onRestart</string>
+    <string name="on_destroy">onDestroy</string>
+    <string name="first_start">First start</string>
+    <string name="second_start">Second start</string>
+    <string name="tag_for_logcat">WeatherApp</string>
+    <string name="temperature">Temperature: +27 C</string>
+    <string name="humidity">Humidity: 28%</string>
+    <string name="pressure">Pressure: 765 mm Hg</string>
+    <string name="visibility">Visibility: very good</string>
+    <string name="wind">Wind: 1 m/s</string>
+    <string name="city">Saint-Petersburg</string>
 </resources>
+
