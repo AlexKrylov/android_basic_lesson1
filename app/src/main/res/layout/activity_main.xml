@@ -37,4 +37,15 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/android_image"
+        android:contentDescription="@string/android_image_descr"
+        android:layout_marginTop="@dimen/margin_top_image"
+        android:layout_width="@dimen/umbrella_image_width"
+        android:layout_height="@dimen/umbrella_image_height"
+        app:srcCompat="@drawable/umbrella"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"/>
 </android.support.constraint.ConstraintLayout>
