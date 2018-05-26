@@ -22,5 +22,12 @@
     <string name="write_your_city">Write your city</string>
     <string name="show">Show</string>
     <string name="android_image_descr">android</string>
+    <string name="empty">empty</string>
+    <array name="Cities">
+        <item>Saint-Petersburg</item>
+        <item>Moscow</item>
+        <item>New York</item>
+        <item>London</item>
+    </array>
 </resources>
 

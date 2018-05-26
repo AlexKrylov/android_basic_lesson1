@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="weather_city_imgs">
+        <item>@drawable/spb</item>
+        <item>@drawable/msk</item>
+        <item>@drawable/ny</item>
+        <item>@drawable/london</item>
+    </integer-array>
+</resources>
