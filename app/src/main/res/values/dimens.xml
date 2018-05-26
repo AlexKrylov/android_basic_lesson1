@@ -17,4 +17,7 @@
     <dimen name="margin_top_pressure">280dp</dimen>
     <dimen name="margin_top_visibility">310dp</dimen>
     <dimen name="margin_top_wind">340dp</dimen>
+    <dimen name="margin_top_image">220dp</dimen>
+    <dimen name="umbrella_image_width">212dp</dimen>
+    <dimen name="umbrella_image_height">273dp</dimen>
 </resources>
